@@ -1,4 +1,5 @@
-from sympy import enumerate , symbols , Eq , solve as sympy_solve
+from sympy import *
+from sympy import solve as sympy_solve
 
 
 ELEMENTS = [
